@@ -1,0 +1,13 @@
+C:\Users\Taila\Desktop\Dev\Desafio - Media dos alunos\bin\Debug\netcoreapp3.1\Desafio - Media dos alunos.exe
+C:\Users\Taila\Desktop\Dev\Desafio - Media dos alunos\bin\Debug\netcoreapp3.1\Desafio - Media dos alunos.deps.json
+C:\Users\Taila\Desktop\Dev\Desafio - Media dos alunos\bin\Debug\netcoreapp3.1\Desafio - Media dos alunos.runtimeconfig.json
+C:\Users\Taila\Desktop\Dev\Desafio - Media dos alunos\bin\Debug\netcoreapp3.1\Desafio - Media dos alunos.runtimeconfig.dev.json
+C:\Users\Taila\Desktop\Dev\Desafio - Media dos alunos\bin\Debug\netcoreapp3.1\Desafio - Media dos alunos.dll
+C:\Users\Taila\Desktop\Dev\Desafio - Media dos alunos\bin\Debug\netcoreapp3.1\Desafio - Media dos alunos.pdb
+C:\Users\Taila\Desktop\Dev\Desafio - Media dos alunos\obj\Debug\netcoreapp3.1\Desafio - Media dos alunos.csprojAssemblyReference.cache
+C:\Users\Taila\Desktop\Dev\Desafio - Media dos alunos\obj\Debug\netcoreapp3.1\Desafio - Media dos alunos.AssemblyInfoInputs.cache
+C:\Users\Taila\Desktop\Dev\Desafio - Media dos alunos\obj\Debug\netcoreapp3.1\Desafio - Media dos alunos.AssemblyInfo.cs
+C:\Users\Taila\Desktop\Dev\Desafio - Media dos alunos\obj\Debug\netcoreapp3.1\Desafio - Media dos alunos.csproj.CoreCompileInputs.cache
+C:\Users\Taila\Desktop\Dev\Desafio - Media dos alunos\obj\Debug\netcoreapp3.1\Desafio - Media dos alunos.dll
+C:\Users\Taila\Desktop\Dev\Desafio - Media dos alunos\obj\Debug\netcoreapp3.1\Desafio - Media dos alunos.pdb
+C:\Users\Taila\Desktop\Dev\Desafio - Media dos alunos\obj\Debug\netcoreapp3.1\Desafio - Media dos alunos.genruntimeconfig.cache
